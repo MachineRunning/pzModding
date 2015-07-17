@@ -6,10 +6,7 @@
 -- Updated: 07.29.14 to Build 27 by NCrawler
 -- Updated: 04.06.15 to Build 31 by UnfoundedBros
 --
--- Not my most elegant code, but it works :D -NCrawler
 -- =============================================================================
-
--- wasted hours of my time on the lua nested tables to string and back functions!!!
 
 -- -- okay so any weirds errors, project zomboid uses kahlua ... lua for java..
 
